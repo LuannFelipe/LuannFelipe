@@ -11,10 +11,10 @@ Seja bem vindo ao meu gitHub
     <i class="devicon-nodejs-plain colored"></i>
     <i class="devicon-java-plain colored"></i>
     <i class="devicon-c-plain colored"></i>
-    </div>
+</div>
 <div>
     <a href="https://github.com/LuannFelipe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuannFelipe&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannFelipe&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  ![Snake animation](https://github.com/LuannFelip/LuannFelipe/blob/output/github-contribution-grid-snake.svg)
+ 
