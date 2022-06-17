@@ -14,7 +14,7 @@ Seja bem vindo ao meu gitHub
 </div>
 <div>
     <a href="https://github.com/LuannFelipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuannFelipe&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannFelipe&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alnnu&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnnu&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
