@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=000000&width=600&lines=Ol%C3%A1%2C+mundo!!!+Me+chamo+Luann." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&width=600&lines=Ol%C3%A1%2C+mundo!!!+Me+chamo+Luann." alt="Typing SVG" /></a>
 
 Seja bem vindo ao meu gitHub.
 
