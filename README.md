@@ -5,7 +5,7 @@ Seja bem vindo ao meu gitHub.
 
 ## :walking:Um pouco sobre mim:
 
-Olá:wave:, me chamo Luann Felipe, mas pode me chamar apenas de Luann, tenho 19 anos. Atualmente estou cursando o 4 período de ciência da computação no IFG Anápolis e faço parte da diretoria de projetos da Code Tower. 
+Olá:wave:, me chamo Luann Felipe, mas pode me chamar apenas de Alnnu, tenho 19 anos. Atualmente estou cursando o 5 período de ciência da computação no IFG Anápolis e sou menbro na diretoria de projetos da Code Tower. 
 
 
 
@@ -53,22 +53,7 @@ Olá:wave:, me chamo Luann Felipe, mas pode me chamar apenas de Luann, tenho 19 
 </p>
 
 
-### :zap: Atividades recentes
+## Uma frase para finalizar
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-## Meus status
-
-<p align="left">
-    <a href="https://github.com/alnnu">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alnnu&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnnu&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
-</p>
-<p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=alnnu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p>
 
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
