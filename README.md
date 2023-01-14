@@ -5,7 +5,7 @@ Seja bem vindo ao meu gitHub.
 
 ## :walking:Um pouco sobre mim:
 
-Olá:wave:, me chamo Luann Felipe, mas pode me chamar apenas de Alnnu, tenho 19 anos. Atualmente estou cursando o 5 período de ciência da computação no IFG Anápolis e sou menbro na diretoria de projetos da Code Tower. 
+Olá:wave:, me chamo Luann Felipe, mas pode me chamar apenas de Alnnu, tenho 19 anos. Atualmente estou cursando o 5 período de ciência da computação no IFG Anápolis e sou menbro na diretoria de projetos e comercial da Code Tower. 
 
 
 
